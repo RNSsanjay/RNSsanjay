@@ -274,7 +274,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&custom_title=📊%20Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 
