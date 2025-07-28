@@ -282,54 +282,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="30" /> **Featured Projects** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="30" /></div>
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="20" /> **AI-Powered Applications**
-
-[![AI Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ai-chatbot&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YourUsername/ai-chatbot)
-
-[![ML Model API](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ml-model-api&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YourUsername/ml-model-api)
-
-</td>
-<td width="50%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="20" /> **Full Stack Applications**
-
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ecommerce-platform&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YourUsername/ecommerce-platform)
-
-[![Social Media App](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=social-media-app&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YourUsername/social-media-app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="📱" width="20" /> **Mobile Applications**
-
-[![Flutter Fitness App](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=flutter-fitness-app&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YourUsername/flutter-fitness-app)
-
-[![React Native Todo](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=react-native-todo&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YourUsername/react-native-todo)
-
-</td>
-<td width="50%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="📦" width="20" /> **Open Source Tools**
-
-[![Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=code-generator&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YourUsername/code-generator)
-
-[![API Utilities](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=api-utilities&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YourUsername/api-utilities)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
