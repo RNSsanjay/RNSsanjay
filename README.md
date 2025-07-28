@@ -349,13 +349,7 @@ Other                 ██████                            10%
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="🎵" width="30" /> **Currently Vibing To** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="🎵" width="30" /></div>
 
-<div align="center">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=3&unique=true&width=400)](https://open.spotify.com/user/yourusername)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
