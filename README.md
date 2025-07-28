@@ -273,22 +273,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="30" /> **GitHub Analytics** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="30" /></div>
-
-<div align="center">
-  
-<table>
-<tr>
-<td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" />
-</td>
-<td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Most Used Languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&custom_title=📊%20Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
